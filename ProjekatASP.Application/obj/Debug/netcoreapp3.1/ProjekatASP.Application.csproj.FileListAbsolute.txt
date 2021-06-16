@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.Application\bin\Debug\netcoreapp3.1\ProjekatASP.Application.deps.json
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.Application\bin\Debug\netcoreapp3.1\ProjekatASP.Application.dll
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.Application\bin\Debug\netcoreapp3.1\ProjekatASP.Application.pdb
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.Application\bin\Debug\netcoreapp3.1\ProjekatASP.Domain.dll
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.Application\bin\Debug\netcoreapp3.1\ProjekatASP.Domain.pdb
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.Application\obj\Debug\netcoreapp3.1\ProjekatASP.Application.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.Application\obj\Debug\netcoreapp3.1\ProjekatASP.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.Application\obj\Debug\netcoreapp3.1\ProjekatASP.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.Application\obj\Debug\netcoreapp3.1\ProjekatASP.Application.csproj.CopyComplete
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.Application\obj\Debug\netcoreapp3.1\ProjekatASP.Application.dll
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.Application\obj\Debug\netcoreapp3.1\ProjekatASP.Application.pdb

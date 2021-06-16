@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\bin\Debug\netcoreapp3.1\ProjekatASP.EfDataAccess.deps.json
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\bin\Debug\netcoreapp3.1\ProjekatASP.EfDataAccess.runtimeconfig.json
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\bin\Debug\netcoreapp3.1\ProjekatASP.EfDataAccess.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\bin\Debug\netcoreapp3.1\ProjekatASP.EfDataAccess.dll
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\bin\Debug\netcoreapp3.1\ProjekatASP.EfDataAccess.pdb
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\bin\Debug\netcoreapp3.1\ProjekatASP.Domain.dll
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\bin\Debug\netcoreapp3.1\ProjekatASP.Domain.pdb
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\obj\Debug\netcoreapp3.1\ProjekatASP.EfDataAccess.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\obj\Debug\netcoreapp3.1\ProjekatASP.EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\obj\Debug\netcoreapp3.1\ProjekatASP.EfDataAccess.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\obj\Debug\netcoreapp3.1\ProjekatASP.EfDataAccess.csproj.CopyComplete
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\obj\Debug\netcoreapp3.1\ProjekatASP.EfDataAccess.dll
+C:\Users\Admin\source\repos\ProjekatASP\ProjekatASP.EfDataAccess\obj\Debug\netcoreapp3.1\ProjekatASP.EfDataAccess.pdb
