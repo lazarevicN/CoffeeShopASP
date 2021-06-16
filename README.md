@@ -17,3 +17,10 @@ pakovanja.
 Administrator ima sve mogućnosti kao i autorizovan korisnik. Pored tih mogućnosti, admin ima mogućnost unosa novih tipova zrna, zemlje porekla, za šta je potreban samo Name, zatim
 količinu pakovanja, kao i kafe sa cenama. Takođe, ima mogućnost izmene, kao i brisanje svega navedenog u zavisnosti od ID koji admin odabere. Administrator ima mogućnost prikaza 
 svih porudžbina, kao i UseCaseLogova. Moguća je pretraga porudžbina, preko imena poručenih kafa, kao i UseCaseLogova preko imena UseCase-a.
+
+Svaka kafa mora imati ID tipa zrna, kao i ID zemlje porekla.
+Kafa može imati 1 ili više količine pakovanja i samim tim je veza n:n, tj postoji vezivna tabela između Kafa i Količina, koja se naziva KafaKoličine, u kojoj se, pored ID kafe i ID količine, nalazi i cena, koja se razlikuje u odnosu na količinu.
+Svaki autorizovani korisnik ima svoju ulogu, kao običan korisnik.
+Postoje 2 uloge: Administrator i User.
+Porudžbine i stavke porudžbine su povezane 1:n.
+U tabeli UseCaseLogs, upisuju se svi slučajevi korišćenja koji su se desili na aplikaciji, korisnik koji je to izvršio, podaci tj informacije šta je izvršio i njihov ID.
