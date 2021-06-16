@@ -24,3 +24,5 @@ Svaki autorizovani korisnik ima svoju ulogu, kao običan korisnik.
 Postoje 2 uloge: Administrator i User.
 Porudžbine i stavke porudžbine su povezane 1:n.
 U tabeli UseCaseLogs, upisuju se svi slučajevi korišćenja koji su se desili na aplikaciji, korisnik koji je to izvršio, podaci tj informacije šta je izvršio i njihov ID.
+
+Podaci u tabeli se ne pune preko Faker-a, već su uneti "ručno", preko DefaultController-a.
