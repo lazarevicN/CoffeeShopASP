@@ -26,3 +26,7 @@ Porudžbine i stavke porudžbine su povezane 1:n.
 U tabeli UseCaseLogs, upisuju se svi slučajevi korišćenja koji su se desili na aplikaciji, korisnik koji je to izvršio, podaci tj informacije šta je izvršio i njihov ID.
 
 Podaci u tabeli se ne pune preko Faker-a, već su uneti "ručno", preko DefaultController-a.
+
+Log in:
+Administrator: Email : "lazarevic@gmail.com", Password : "sifra123"
+Korisnik: Email : "peric@gmail.com", Password : "sifra1"
