@@ -1,6 +1,17 @@
 # CoffeeShopASP
 Project for ASP, Store which sells coffees
 
+Struktura projekta
+
+Celokupan projekat je podeljen na posebne slojeve tj. projekte. Slojevi su sledeći:
+  -Domenski sloj(u kom se nalaze entiteti)
+  -Aplikacioni sloj(u kom se nalazi poslovna logika)
+  -Implementacioni sloj(u kom se nalazi implementacija poslovne logike)
+  -API sloj(klijentski sloj)
+  
+  
+Funkcionalnosti i opis projekta
+
 Projekat se odnosi na prodavnicu "Coffee Shop". Glavni cilj jeste prodaja kafe. Svaka kafa ima tip zrna i iz koje zemlje potiče. Takođe, svaka kafa ima svoju količinu pakovanja
 i u zavisnosti od količine pakovanja, svoju cenu. Određene kafe imaju samo jedno pakovanje sa određenom količinom, dok druge mogu imati vise pakovanja sa većom ili manjom količinom.
 Svaki korisnik, koji nije autorizovan, ima mogućnost registracije kao i log in-a, zatim ima prikaz svih tipova zrna kafe, sa imenima kafa i njihovim opisima, kao i prikaz zemalja
